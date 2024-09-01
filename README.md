@@ -1,6 +1,8 @@
 Project Name: eBook Website
+
 Overview
-This eBook website offers a platform for users to browse and read digital books. It features a responsive design, a secure login system, and a user-friendly interface.
+This eBook website offers a platform for users to browse and read digital books. 
+It features a responsive design, a secure login system, and a user-friendly interface.
 
 Features
 Home Page: Displays featured eBooks and categories.
