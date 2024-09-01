@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../aboutusmini"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Book Store Website Part 3"
+	}
+}
